@@ -1,0 +1,10 @@
+{
+  "about_url": null,
+  "license_url": null,
+  "assets": {
+    "HKGRegular": "assets/HKGrotesk-Regular.woff2",
+    "HKGBold": "assets/HKGrotesk-Bold.woff2"
+  },
+  "name": "HK Grotesk",
+  "component": true
+}
